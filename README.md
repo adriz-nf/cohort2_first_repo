@@ -6,3 +6,5 @@ Example Repository for class
 
 This text will be **bold** and this is *italics*    
 $y_t
+
+We will try making a branch
